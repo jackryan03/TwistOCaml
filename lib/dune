@@ -1,0 +1,5 @@
+(library
+ (name rubiks_cube)
+ (libraries csv unix batteries)
+ (modules cube threecube twocube util shop)
+ (modules_without_implementation cube))

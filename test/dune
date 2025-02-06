@@ -1,0 +1,4 @@
+(test
+ (name test_rubiks_cube)
+ (libraries ounit2 rubiks_cube)
+ (deps (glob_files_rec ../data/*)))

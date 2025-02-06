@@ -1,0 +1,15 @@
++-----------------------------------+----------------------------------------------+
+| Face Turns:                       | Cube Rotations:                              |
+| - U : Up face clockwise           | - x : Clockwise rotation about x-axis        |
+| - U': Up face counterclockwise    | - x': Counterclockwise rotation about x-axis |
+| - L : Left face clockwise         | - y : Clockwise rotation about y-axis        |
+| - L': Left face counterclockwise  | - y': Counterclockwise rotation about y-axis |
+| - F : Front face clockwise        | - z : Clockwise rotation about z-axis        |
+| - F': Front face counterclockwise | - z': Counterclockwise rotation about z-axis |
+| - R : Right face clockwise        +----------------------------------------------+
+| - R': Right face counterclockwise | More Commands:                               |
+| - D : Down face clockwise         | - H : Toggle Help (this screen)              |
+| - B : Back face clockwise         | - M : Quit to menu (Progress not saved)      |
+| - B': Back face counterclockwise  | - S : Save face to gallery                   |
+| - D': Down face counterclockwise  |                                              |
++-----------------------------------+----------------------------------------------+
